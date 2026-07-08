@@ -17,7 +17,7 @@ I'm a Computer Science and Engineering undergraduate at PVPSIT interested in Sof
 
 **Frontend:** React.js, HTML5, CSS3, Bootstrap 5
 
-**Backend:** Node.js, Express.js, REST APIs,Spring Boot
+**Backend:** Node.js, Express.js, REST APIs, Spring Boot
 
 **Databases:** MySQL, MongoDB
 
@@ -52,7 +52,7 @@ A full-stack task management application that allows users to create, update, de
 - Persistent task storage using MongoDB
 - Responsive user interface
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs,
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs
 
 ## Achievements
 
